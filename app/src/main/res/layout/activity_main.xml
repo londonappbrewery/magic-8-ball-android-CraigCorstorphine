@@ -36,13 +36,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="false"
+
+        android:layout_centerHorizontal="true"
         android:layout_centerVertical="false"
-        android:layout_marginStart="48dp"
-        android:layout_marginLeft="48dp"
+        android:layout_marginStart="122dp"
+        android:layout_marginLeft="122dp"
         android:layout_marginTop="133dp"
-        android:text="Making Every Day Decisions Easier!"
+        android:text="Ask a Question!"
         android:textColor="#F8020202"
         android:textSize="20sp"
         android:textStyle="bold|italic" />
